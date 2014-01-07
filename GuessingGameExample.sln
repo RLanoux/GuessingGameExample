@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGameExample", "GuessingGameExample\GuessingGameExample.csproj", "{1760AFD1-7904-4FA5-9516-BC4C54FFFD27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleForGuessingGame", "..\ConsoleForGuessingGame\ConsoleForGuessingGame\ConsoleForGuessingGame.csproj", "{273BC0EB-06C0-43B7-823F-E1825DAD092D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1760AFD1-7904-4FA5-9516-BC4C54FFFD27}.Debug|x86.ActiveCfg = Debug|x86
+		{1760AFD1-7904-4FA5-9516-BC4C54FFFD27}.Debug|x86.Build.0 = Debug|x86
+		{1760AFD1-7904-4FA5-9516-BC4C54FFFD27}.Release|x86.ActiveCfg = Release|x86
+		{1760AFD1-7904-4FA5-9516-BC4C54FFFD27}.Release|x86.Build.0 = Release|x86
+		{273BC0EB-06C0-43B7-823F-E1825DAD092D}.Debug|x86.ActiveCfg = Debug|x86
+		{273BC0EB-06C0-43B7-823F-E1825DAD092D}.Debug|x86.Build.0 = Debug|x86
+		{273BC0EB-06C0-43B7-823F-E1825DAD092D}.Release|x86.ActiveCfg = Release|x86
+		{273BC0EB-06C0-43B7-823F-E1825DAD092D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
